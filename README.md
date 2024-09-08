@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rakshan Shetty</h1>
-<h3 align="center">A passionate fullstack web developer from India</h3>
+<h3 align="center">A passionate fullstack web developer from India </h3>
+  
+  <h3 align="center"><a  href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&duration=4000&pause=1000&color=13A6F7&width=435&lines=Full+Stack+Web Developer;RPA+Developer;Python%7CJava%7CDjango" alt="Typing SVG" /></a></h3>
+
+
+
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshan001&label=Profile%20views&color=0e75b6&style=flat" alt="rakshan001" /> </p>
