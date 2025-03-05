@@ -9,11 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshan001&label=Profile%20views&color=0e75b6&style=flat" alt="rakshan001" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently working in the  **Machine Learning** field
 
 - 👨‍💻 All of my projects are available at [https://rakshan001.github.io/MyPortfolio/](https://rakshan001.github.io/MyPortfolio/)
 
-- 💬 Ask me about **Django,Python**
+- 💬 Ask me about **Django,Python,Machine Learning**
 
 - 📫 How to reach me **rakshanshetty2003@gmail.com**
 
