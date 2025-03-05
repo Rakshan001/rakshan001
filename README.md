@@ -27,7 +27,6 @@
 - 👨‍💻 My creations live at [My Portfolio](https://rakshan001.github.io/MyPortfolio/)
 - 💬 Chat with me about **Django, Python, Web Dev, or Robotics**
 - 📫 Drop me a line: **rakshanshetty2003@gmail.com**
-- ⚡ Fun Fact: I once built a robot that pours coffee... almost perfectly!
 - 🎯 2025 Goal: Contribute to open-source AI projects
 
 <div align="center">
