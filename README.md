@@ -147,9 +147,9 @@ Hey there! I'm a tech adventurer passionate about crafting intelligent solutions
 ## 🏅 Milestones & Creations
 
 <div align="center" style="background: #1F2A44; border-radius: 15px; padding: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.4); width: 80%; margin: 20px auto;">
-  <img src="https://img.shields.io/badge/Projects-25%2B-00C4FF?style=for-the-badge&logo=github&logoColor=white" alt="Projects" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/ML%20Models-10%2B-00C4FF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML Models" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/RPA%20Bots-8%2B-00C4FF?style=for-the-badge&logo=uipath&logoColor=white" alt="RPA Solutions" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Projects-10%2B-00C4FF?style=for-the-badge&logo=github&logoColor=white" alt="Projects" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/ML%20Models-3%2B-00C4FF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML Models" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/RPA%20Bots-1%2B-00C4FF?style=for-the-badge&logo=uipath&logoColor=white" alt="RPA Solutions" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/Coffee%20Fueled-∞-00C4FF?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Coffee" style="margin: 5px;" />
 </div>
 
