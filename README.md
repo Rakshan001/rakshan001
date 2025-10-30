@@ -121,7 +121,7 @@ Hey there! I'm a tech adventurer passionate about crafting intelligent solutions
   <a href="mailto:rakshanshetty2003@gmail.com" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
   </a>
-  <a href="https://rakshan001.github.io/MyPortfolio/" target="_blank" style="margin: 0 10px;">
+  <a href="https://rakshan-shetty.netlify.app/" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Portfolio-00C4FF?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
   </a>
   <a href="https://github.com/rakshan001" target="_blank" style="margin: 0 10px;">
