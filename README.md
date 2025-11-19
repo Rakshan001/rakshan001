@@ -79,14 +79,7 @@ Hey there! I'm a tech adventurer passionate about crafting intelligent solutions
 
 ## 📈 GitHub Insights
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshan001&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1F2A44&title_color=00C4FF&text_color=E0E0E0" alt="Top Languages" style="margin: 10px;" />
-</div>
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakshan001&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&bg_color=1F2A44&title_color=00C4FF&text_color=E0E0E0" alt="GitHub Stats" style="margin: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshan001&theme=midnight-purple&hide_border=true&background=1F2A44&stroke=00C4FF&ring=00C4FF&fire=00C4FF&currStreakNum=E0E0E0&sideNums=E0E0E0&currStreakLabel=00C4FF&sideLabels=E0E0E0" alt="GitHub Streak" style="margin: 10px;" />
-</div>
+<div align="center" style="margin: 24px 0; background: #1F2A44; border-radius: 20px; padding: 20px; box-shadow: 0 6px 18px rgba(0,0,0,0.35); width: 90%; max-width: 950px;"> <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshan001&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1F2A44&title_color=00C4FF&text_color=E0E0E0" alt="Top Languages" style="margin: 10px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,196,255,0.10);" /> <img src="https://github-readme-stats.vercel.app/api?username=rakshan001&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&bg_color=1F2A44&title_color=00C4FF&text_color=E0E0E0" alt="GitHub Stats" style="margin: 10px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,196,255,0.10);" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshan001&theme=midnight-purple&hide_border=true&background=1F2A44&stroke=00C4FF&ring=00C4FF&fire=00C4FF&currStreakNum=E0E0E0&sideNums=E0E0E0&currStreakLabel=00C4FF&sideLabels=E0E0E0" alt="GitHub Streak" style="margin: 10px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,196,255,0.10);" /> </div> <div style="margin-top: 18px;"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakshan001&theme=midnight_purple" alt="Profile Details" style="margin: 10px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,196,255,0.10);"> </div> </div>
 
 ---
 
