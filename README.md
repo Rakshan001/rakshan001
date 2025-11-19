@@ -42,61 +42,7 @@ Hey there! I'm a tech adventurer passionate about crafting intelligent solutions
 
 ## ⚙️ Tech Stack
 
-<table align="center" style="background: #1F2A44; border-radius: 15px; padding: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="70" height="70" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-      <br><span style="color: #E0E0E0;">Python</span>
-    </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="70" height="70" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-      <br><span style="color: #E0E0E0;">JavaScript</span>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="70" height="70" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-      <br><span style="color: #E0E0E0;">Java</span>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="70" height="70" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-      <br><span style="color: #E0E0E0;">Django</span>
-    </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="70" height="70" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-      <br><span style="color: #E0E0E0;">React</span>
-    </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="70" height="70" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-      <br><span style="color: #E0E0E0;">MySQL</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="70" height="70" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-      <br><span style="color: #E0E0E0;">TensorFlow</span>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="70" height="70" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-      <br><span style="color: #E0E0E0;">PyTorch</span>
-    </td>
-    <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="70" height="70" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-      <br><span style="color: #E0E0E0;">Scikit-Learn</span>
-    </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="70" height="70" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-      <br><span style="color: #E0E0E0;">Docker</span>
-    </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="70" height="70" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-      <br><span style="color: #E0E0E0;">AWS</span>
-    </td>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="70" height="70" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-      <br><span style="color: #E0E0E0;">Git</span>
-    </td>
-  </tr>
-</table>
-
+<table align="center" style="background: #1F2A44; border-radius: 15px; padding: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);"> <tr> <td align="center" width="100"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="70" height="70"> <br><span style="color: #E0E0E0;">Python</span> </td> <td align="center" width="100"> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="70" height="70"> <br><span style="color: #E0E0E0;">JavaScript</span> </td> <td align="center" width="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="70" height="70"> <br><span style="color: #E0E0E0;">Java</span> </td> <td align="center" width="100"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="70" height="70"> <br><span style="color: #E0E0E0;">Django</span> </td> <td align="center" width="100"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="70" height="70"> <br><span style="color: #E0E0E0;">React.js</span> </td> <td align="center" width="100"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="70" height="70"> <br><span style="color: #E0E0E0;">MySQL</span> </td> <td align="center" width="100"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="70" height="70"> <br><span style="color: #E0E0E0;">Next.js</span> </td> </tr> <tr> <td align="center" width="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="70" height="70"> <br><span style="color: #E0E0E0;">TensorFlow</span> </td> <td align="center" width="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="70" height="70"> <br><span style="color: #E0E0E0;">PyTorch</span> </td> <td align="center" width="100"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="70" height="70"> <br><span style="color: #E0E0E0;">Scikit-Learn</span> </td> <td align="center" width="100"> <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="70" height="70"> <br><span style="color: #E0E0E0;">Docker</span> </td> <td align="center" width="100"> <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="70" height="70"> <br><span style="color: #E0E0E0;">AWS</span> </td> <td align="center" width="100"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="70" height="70"> <br><span style="color: #E0E0E0;">Git</span> </td> <td align="center" width="100"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="70" height="70"> <br><span style="color: #E0E0E0;">Node.js</span> </td> </tr> <tr> <td align="center" width="100"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="70" height="70"> <br><span style="color: #E0E0E0;">PostgreSQL</span> </td> <td align="center" width="100"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="70" height="70"> <br><span style="color: #E0E0E0;">MongoDB</span> </td> </tr> </table>
 ---
 
 ## 📊 Data & ML Toolkit
