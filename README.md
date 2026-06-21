@@ -4,7 +4,6 @@
      Note: GitHub strips inline CSS (style attributes), so all
      styling here uses HTML attributes + SVG services that render.
      ════════════════════════════════════════════════════════════ -->
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,45:0466C8,100:00C4FF&text=Rakshan%20Shetty&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20AI%20Agent%20Builder&descSize=18&descAlignY=58" width="100%" alt="Rakshan Shetty — header banner" />
 </div>
