@@ -4,6 +4,7 @@
      Note: GitHub strips inline CSS (style attributes), so all
      styling here uses HTML attributes + SVG services that render.
      ════════════════════════════════════════════════════════════ -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,45:0466C8,100:00C4FF&text=Rakshan%20Shetty&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20AI%20Agent%20Builder&descSize=18&descAlignY=58" width="100%" alt="Rakshan Shetty — header banner" />
 </div>
@@ -155,14 +156,14 @@ Currently deep into **LLMs, RAG pipelines and agentic workflows** with LangChain
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rakshan001&theme=algolia&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=rakshan001&theme=algolia&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
 </div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rakshan001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C4FF&icon_color=00C4FF&text_color=C9D1D9&ring_color=00C4FF&border_radius=10" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshan001&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=00C4FF&text_color=C9D1D9&border_radius=10" alt="Most used languages" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=rakshan001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C4FF&icon_color=00C4FF&text_color=C9D1D9&ring_color=00C4FF&border_radius=10" alt="GitHub stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rakshan001&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=00C4FF&text_color=C9D1D9&border_radius=10" alt="Most used languages" />
 </div>
 
 <div align="center">
