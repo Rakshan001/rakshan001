@@ -3,7 +3,7 @@
   <h1>Rakshan Shetty</h1>
   <p>
     Full stack, backend and GenAI engineer.<br />
-    I build web products end to end, and open-source tools for shipping software faster with AI coding agents.
+    I build web products end to end, and open-source tools for working with AI coding agents.
   </p>
   <p>
     <a href="https://rakshan-shetty.netlify.app/">Portfolio</a>
@@ -20,40 +20,49 @@
 
 ### About
 
-I'm a full stack engineer with a backend focus, working on GenAI products. I build web applications end to end in React, Next.js, Node.js and Python, design the APIs and data models behind them, and add LLM features such as RAG pipelines and AI agents with LangChain, LangGraph and the Gemini and OpenAI APIs.
+I'm a full stack engineer with a backend focus, working on GenAI products. I build web apps in
+React, Next.js, Node.js and Python, design the APIs and data models behind them, and add LLM
+features such as RAG pipelines and agents.
 
-Most of my recent work is about AI-assisted engineering: how to ship software faster by running several AI coding agents in parallel, coordinating them so they don't overwrite each other, handing a plan from one agent to the next, and giving them memory they can actually trust. I build open-source tools for exactly that.
-
-<br />
-
-### What I work on
-
-- **Full stack development.** React, Next.js and TypeScript front ends on Node.js and Python back ends, with server-side rendering and responsive UI.
-- **Backend engineering.** REST APIs, authentication and role-based access control, PostgreSQL, MongoDB and Redis, CI/CD with GitHub Actions and Docker.
-- **GenAI engineering.** RAG pipelines, embeddings and vector search, LLM integration, AI agents and the agent loop, MCP servers.
-- **Multi-agent coding workflows.** Running Claude Code, Cursor, Codex and Gemini together on one codebase, with isolated git worktrees, agent handoff and verified agent memory.
+Lately most of my time goes into AI-assisted engineering: running several coding agents on one
+codebase without them overwriting each other, passing a plan from one agent to the next, and
+giving them memory they can trust. The projects below came out of that.
 
 <br />
 
 ### Open source
 
-**[Baton](https://github.com/Rakshan001/Baton-Multi-Agent-)** &nbsp; Run several AI coding agents on one repository without conflicts.
+**[Baton](https://baton-landing.vercel.app)** &nbsp; Run several AI coding agents on one repo without conflicts.
 
-Baton lets Claude Code, Cursor, Codex, Gemini, Aider and OpenCode work in the same repo at the same time. Every task gets its own git worktree, a local dashboard shows which agent is editing what, and a single `HANDOFF.md` passes the plan from the agent that reasons to the agent that writes the code. Plan on your expensive model, build on your cheaper one.
+Claude Code, Cursor, Codex, Gemini and others work in the same repo at the same time. Each task
+gets its own git worktree, a local dashboard shows which agent is editing what, and a handoff file
+passes the plan from the agent that reasons to the agent that writes the code.
 
-<sub>TypeScript, Node.js, React, SQLite, MCP. 16,000 lines, 641 tests, no runtime dependencies in the daemon. MIT.<br /><a href="https://baton-landing.vercel.app">Website</a> &nbsp;/&nbsp; <a href="https://github.com/Rakshan001/Baton-Multi-Agent-">Repository</a></sub>
-
-<br />
-
-**[Elmory](https://elmory.vercel.app)** &nbsp; Memory for AI coding agents that knows when it's out of date.
-
-Agent memory goes stale silently: a note says one thing, the code now says another, and the agent acts on the note. In Elmory every fact quotes the exact code that proves it, and each recall checks that the quote still exists. If it does, the fact is served. If the code changed, the fact is withheld, and when nothing holds the answer is "I don't know" instead of a guess. Works as a CLI or an MCP server for Claude Code, Cursor and Codex.
-
-<sub>TypeScript on Node 24, SQLite full-text search, runs offline. Pre-release. MIT.<br /><a href="https://elmory.vercel.app">Website</a> &nbsp;/&nbsp; <a href="https://elmory.vercel.app/docs/introduction">Docs</a> &nbsp;/&nbsp; <a href="https://github.com/Rakshan001/elmory">Repository</a></sub>
+<sub>TypeScript, Node.js, React, SQLite, MCP. On npm as <code>batonhq</code>.<br /><a href="https://baton-landing.vercel.app">Website</a> &nbsp;/&nbsp; <a href="https://baton-landing.vercel.app/download/mac">Download for Mac</a></sub>
 
 <br />
 
-<sub>Baton coordinates the agents. Elmory gives them memory that can't silently go stale.</sub>
+**[Elmory](https://github.com/Rakshan001/elmory)** &nbsp; Memory for coding agents that knows when it is out of date.
+
+Every fact quotes the code that proves it, and each recall checks that the quote is still there.
+If the code changed, the fact is held back, and when nothing holds up the answer is "I don't know"
+instead of a guess. Works as a CLI or an MCP server.
+
+<sub>TypeScript on Node 24, SQLite, runs offline. On npm as <code>elmory</code>. MIT.<br /><a href="https://elmory.vercel.app">Website</a> &nbsp;/&nbsp; <a href="https://github.com/Rakshan001/elmory">Repository</a></sub>
+
+<br />
+
+**[Agent skills](https://github.com/Rakshan001/agent-skills)** &nbsp; Skills I wrote for AI coding agents.
+
+Plain `SKILL.md` folders for Claude Code, Codex, Cursor and Antigravity: fixing bugs without
+regressions, verifying work before calling it done, splitting a monolith, migrating a stack,
+privacy compliance, site search and more. Copy a folder into your agent's skills directory.
+
+<sub>Markdown. MIT.<br /><a href="https://github.com/Rakshan001/agent-skills">Repository</a></sub>
+
+<br />
+
+**[JavaScript](https://github.com/Rakshan001/JavaScript)** &nbsp; My JavaScript study notes and exercises: execution model, promises and async, DOM, storage.
 
 <br />
 
@@ -66,19 +75,4 @@ Agent memory goes stale silently: a note says one thing, the code now says anoth
   </picture>
 </p>
 
-<sub>GenAI: RAG, LangChain, LangGraph, LangSmith, Gemini API, OpenAI API, MCP, AI agents, multi-agent orchestration</sub>
-
-<br />
-
-### GitHub
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Rakshan001&show_icons=true&include_all_commits=true&disable_animations=true&hide_rank=true&hide_border=true&theme=transparent&title_color=E6EDF3&text_color=9198A1&icon_color=E6EDF3" />
-    <img height="165" src="https://github-stats-extended.vercel.app/api?username=Rakshan001&show_icons=true&include_all_commits=true&disable_animations=true&hide_rank=true&hide_border=true&theme=transparent&title_color=1F2328&text_color=59636E&icon_color=1F2328" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Rakshan001&layout=compact&langs_count=8&disable_animations=true&hide_border=true&theme=transparent&title_color=E6EDF3&text_color=9198A1&icon_color=E6EDF3" />
-    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rakshan001&layout=compact&langs_count=8&disable_animations=true&hide_border=true&theme=transparent&title_color=1F2328&text_color=59636E&icon_color=1F2328" alt="Most used languages" />
-  </picture>
-</p>
+<sub>GenAI: RAG, LangChain, LangGraph, Gemini API, OpenAI API, MCP, AI agents, multi-agent workflows</sub>
